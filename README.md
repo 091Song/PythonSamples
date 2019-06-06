@@ -8,3 +8,4 @@ Sample codes for Python (3.X)
  - MinMax.ipynb : Find minimum / maximum indices - using Pandas module
  - CurveFitting.ipynb : Curve fitting in python
  - ConvertSnapshot.ipynb : Convert a color movie to a gray one and save a snapshot at frame 0
+ - HigherOrderEquationFitting.ipynb : Surface fitting in python (can be extended to higher order equations)
